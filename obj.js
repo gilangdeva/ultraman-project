@@ -2,6 +2,7 @@ const ultraman = {
     name: "tiga",
     height: 100,
     isDead: false,
+    blip: "Blip Blop",
     address: {
         planet: {
             name: "Namex",
